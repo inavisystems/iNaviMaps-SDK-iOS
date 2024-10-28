@@ -74,7 +74,13 @@ typedef NS_ENUM(NSInteger, INVMapType) {
     /** 하이브리드 지도 유형. */
     INVMapTypeHybrid,
     /** 항공 지도 유형. */
-    INVMapTypeSatellite
+    INVMapTypeSatellite,
+    /** 일반 지형 지도 유형. */
+    INVMapTypeNormalWithHillshade,
+    /** 하이브리드 지형 지도 유형. */
+    INVMapTypeHybridWithHillshade,
+    /** 항공 지형 지도 유형. */
+    INVMapTypeSatelliteWithHillshade,
 };
 
 

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3YdsqpeA522h7usN3TWfo8J0mQI=
+		9vNi+1cvB/VOsgEauEfQSVvshAg=
 		</data>
 		<key>Base.lproj/Foundation.strings</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/INVMapSdk.h</key>
 		<data>
-		hvDRM/vNP+lJZnoiCA6hyanrVek=
+		nfj4/Sm/Tx8WRVS2jOTsymJ8rME=
 		</data>
 		<key>Headers/INVMapStyle.h</key>
 		<data>
@@ -166,11 +166,11 @@
 		</data>
 		<key>Headers/InaviMapView.h</key>
 		<data>
-		XiZsfytE3SnFZX9D2NbE1km2vAo=
+		SnFrnG9OubYWfI8I75+3e9JsZPw=
 		</data>
 		<key>Headers/iNaviMaps-Swift.h</key>
 		<data>
-		SR+ER31r4FB59rl+k84A99k9nmY=
+		60jn9bH6TZZ3PehWBQ+36Z25e2s=
 		</data>
 		<key>Headers/iNaviMaps.h</key>
 		<data>
@@ -182,11 +182,11 @@
 		</data>
 		<key>INVOpenSourceLicenseViewController.nib</key>
 		<data>
-		cH4BS3yeeGEelhM0LdX+P+CLo0M=
+		ffWo/PiUcnfrDZiYbIyG+5JQlHw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/ynwOI0TlMB4B6xsAlsDprDRGO4=
+		lyVROH8HJ6zG555krllAD6CH+4Y=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -194,43 +194,43 @@
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Gy1HBw8fdDeBQryhX1k8Bil6kEs=
+		T/PxFV5FFEUalNGgzm85ohHjmq4=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		R9LJQ1BSA5ZNmwLL9a4n2gBoH3c=
+		yBSq19Y8QR7C/k7KZ8O4rIENgAE=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2oET7k5mwW/DcqPgLzPC87lqBqs=
+		wq/vpmq6nCuWxJWVzTTuwC7dl8c=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		R9LJQ1BSA5ZNmwLL9a4n2gBoH3c=
+		yBSq19Y8QR7C/k7KZ8O4rIENgAE=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3fW7tZeGQSpVeeNc7+m8Gboyv+k=
+		qJnYpt3b7tzr/phctFgyeZYuvJQ=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Gy1HBw8fdDeBQryhX1k8Bil6kEs=
+		T/PxFV5FFEUalNGgzm85ohHjmq4=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ZYeO5JuVHY61+PXyTm+8LqtuQyc=
+		SzKqSp2WGICC2LVlLcKjxO1FWjc=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		GfVW1mISK2HefOy7m9yuKv0K4a0=
+		lul7qxj16CNjwvN7XAXgGisSpTc=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ZYeO5JuVHY61+PXyTm+8LqtuQyc=
+		SzKqSp2WGICC2LVlLcKjxO1FWjc=
 		</data>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		I6g6VK4hQR4PIYf8f/T64f7gr8k=
+		fhrnj+nGiEcUMwk/E/wLCirpTp8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -301,7 +301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DLuom6wJm7O+FdQKuz91iteeByucwsNERaJ8PVleDa8=
+			aJVpASD2B+X0W8Z/cYwiVTxumDI9RlpYt2khB9gpaek=
 			</data>
 		</dict>
 		<key>Base.lproj/Foundation.strings</key>
@@ -462,7 +462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mf3gJnrtLt6otethYMk5chL0tEH2xD7+V5LeFnK/7BA=
+			FjuHtDGIOu+qMH6WufXneOzNr8mdh8/FM9JgPM3cFeA=
 			</data>
 		</dict>
 		<key>Headers/INVMapStyle.h</key>
@@ -581,14 +581,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HoBsGDnuJ1uPUW+NwQTdNNvWaEMWWsvRdCc6bDXMobg=
+			eJF/H0NiPI67+xkRz/ut+7CJJRHGm4nfP8KhLxY/nW4=
 			</data>
 		</dict>
 		<key>Headers/iNaviMaps-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m2aLdVwKvVmw6yfJXSs7Rc40uzWU75hbjj8uTlr+rH4=
+			gQuLzvv0Y4xVo4YZQ/5x9ykFwQzOjFqOgXvD/NSYLv8=
 			</data>
 		</dict>
 		<key>Headers/iNaviMaps.h</key>
@@ -609,7 +609,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HiX8Te71e/r8R5jBzwfZppYul9Z3nti0DHvrxRDq63s=
+			t1Hi7rx4MB+Rf35NF4OADGb3Nfk02Nlcm1sxSEeDDQA=
 			</data>
 		</dict>
 		<key>LICENSE</key>
@@ -623,70 +623,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EMMfZm8URxKBiDqW6Sjlaea07TjU5p/qmwBrKe6PTbc=
+			/fE2eZPYmSzqOZWVUXFIklA52Dv324zmm6Cl8qe5thc=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4mVoLccWB2zpor4F/+FGpTmDWpeWYRoV5XDaPuoGlsY=
+			3tY/mpmZHKLQKRjqFaH4YUls++YRreFP89nxBI7Cq2k=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/thpttYz69rSzsGpGdbiyHkf/ug13344FqGA/0Dp4QU=
+			DtoSzfU5amjrAJSOEPcbRosuYs960fhgPkGzAK/tS0U=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4mVoLccWB2zpor4F/+FGpTmDWpeWYRoV5XDaPuoGlsY=
+			3tY/mpmZHKLQKRjqFaH4YUls++YRreFP89nxBI7Cq2k=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FyIPXNqBxQ+TKwSDnu9YUPhjFaR1QaQ0LMLVLh0G5zs=
+			77WkCbGjL/Zqyro2JMCeqPSU2dlLudNrG/XjfeTaStw=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EMMfZm8URxKBiDqW6Sjlaea07TjU5p/qmwBrKe6PTbc=
+			/fE2eZPYmSzqOZWVUXFIklA52Dv324zmm6Cl8qe5thc=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fxevvqqYBZMmlazeG0MkuQebgSrbyH6tvZNyWGyd0w=
+			CugdGo1/FglFyohh7f7sYBPq8ULVKWttLCA4fVmLqy8=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jqBleKSDY5nlNcIySkY2T/dh3xQrfs6UJHmT2Q0G+F4=
+			VbEKka8gCgyEu5Ss0Z7PZ60ZlIfOYyTUzeCZtzM6q5w=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fxevvqqYBZMmlazeG0MkuQebgSrbyH6tvZNyWGyd0w=
+			CugdGo1/FglFyohh7f7sYBPq8ULVKWttLCA4fVmLqy8=
 			</data>
 		</dict>
 		<key>Modules/iNaviMaps.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fMIQgXw8hoK5kKvyj/T/IAs81bKnM93fTQ4MLBs0az8=
+			awAMKjJnIeEZqd8WvsFtz+OHyc7QwXctCy7YCF00ZOQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

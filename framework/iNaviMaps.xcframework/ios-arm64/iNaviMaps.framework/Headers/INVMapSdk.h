@@ -44,6 +44,10 @@ typedef NS_ENUM(NSInteger, INVErrorCode) {
      */
     INVConnectionTimeOut = 504,
     /**
+     개발기 에러,
+     */
+    INVDevSvr = 999,
+    /**
      알 수 없는 에러
      */
     INVUnknownError      = 500,

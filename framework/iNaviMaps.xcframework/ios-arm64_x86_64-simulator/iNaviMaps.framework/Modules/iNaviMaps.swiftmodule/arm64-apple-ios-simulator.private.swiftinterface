@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name iNaviMaps
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target arm64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name iNaviMaps
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import CoreLocation
 import DeveloperToolsSupport
 import Foundation
@@ -16,6 +16,12 @@ extension CoreLocation.CLLocationCoordinate2D : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
+#if compiler(>=5.3) && $RetroactiveAttribute
+extension CoreLocation.CLLocationCoordinate2D : @retroactive Swift.Equatable {
+  public static func == (lhs: CoreLocation.CLLocationCoordinate2D, rhs: CoreLocation.CLLocationCoordinate2D) -> Swift.Bool
+}
+#else
 extension CoreLocation.CLLocationCoordinate2D : Swift.Equatable {
   public static func == (lhs: CoreLocation.CLLocationCoordinate2D, rhs: CoreLocation.CLLocationCoordinate2D) -> Swift.Bool
 }
+#endif
